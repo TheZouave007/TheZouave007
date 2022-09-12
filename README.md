@@ -1,6 +1,6 @@
 Hi, I’m @TheZouave007
 
-I’m interested primarily in writing good software and making things that are good. To that end, I am primarily interested in staticly typed, compiled languages without garbage collectors.
+I’m interested primarily in writing good software and making things that are good. To that end, I am primarily interested in statically typed, compiled languages without garbage collectors.
 
 I’m currently learning how computer graphics work and why quaternions are good.
 
